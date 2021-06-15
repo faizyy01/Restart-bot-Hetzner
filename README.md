@@ -1,3 +1,3 @@
 # Restart-bot-Hetzner
 
-Force Reboot hetzner hosted server using headless selenium all by sending a command on discord.
+Force Reboot frozen hetzner hosted server using headless selenium all by sending a command on discord.
